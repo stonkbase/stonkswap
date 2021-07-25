@@ -14,5 +14,3 @@ ui
 .DS_Store
 antora.yml
 .eslintcache
-
-index-src.html
